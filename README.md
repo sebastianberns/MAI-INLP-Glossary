@@ -8,65 +8,65 @@ Master in Artificial Intelligence, UPC 2016/17
 
 ## Acronyms
 
-    ASR   Automatic Speech Recognition
+    ASR    Automatic Speech Recognition
 
-    CFG   Context Free Grammar
+    CFG    Context Free Grammar
 
-    CG    Constraint Grammar
+    CG     Constraint Grammar
 
-    CNF   Chomsky Normal Form
+    CNF    Chomsky Normal Form
 
-    FSA   Finite State Automaton
+    FSA    Finite State Automaton
 
-    FSA   Finite State Transducer
+    FSA    Finite State Transducer
 
-    GNF   Greibach Normal Form
+    GNF    Greibach Normal Form
 
-    HMM   Hidden Markov Model
+    HMM    Hidden Markov Model
 
-    IE    Information Extraction
+    IE     Information Extraction
 
-    IR    Information Retrieval
+    IR     Information Retrieval
 
-    LCFRS Linear Context Free Rewriting System
+    LCFRS  Linear Context Free Rewriting System
 
-    MCFG  Multiple Context Free Grammars (see CFG)
+    MCFG   Multiple Context Free Grammars (see CFG)
 
-    MDS   Multi Document Summarization (vs SDS)
+    MDS    Multi Document Summarization (vs SDS)
 
-    ML    Machine Learning
+    ML     Machine Learning
 
-    MM    Markov Model
+    MM     Markov Model
 
-    MT    Machine Translation
+    MT     Machine Translation
 
-    NE    Named Entity
+    NE     Named Entity
 
-    NEC   Named Entity Classification
+    NEC    Named Entity Classification
 
-    NER   Named Entity Recognition
+    NER    Named Entity Recognition
 
-    NERC  NEC + NER
+    NERC   NEC + NER
 
-    NLP   Natural Language Processing
+    NLP    Natural Language Processing
 
-    NP    Nominal Phrase (CFG)
+    NP     Nominal Phrase (CFG)
 
-    POS   Part of Speech
+    POS    Part of Speech
 
-    PSG   Phrase Structure Grammar
+    PSG    Phrase Structure Grammar
 
-    QA    Question Answering
+    QA     Question Answering
 
-    RCG   Range Concatenation Grammar
+    RCG    Range Concatenation Grammar
 
-    RG    Regular Grammar
+    RG     Regular Grammar
 
-    RNP   Recursive Noun Phrase (CFG)
+    RNP    Recursive Noun Phrase (CFG)
 
-    SDS   Single Document Summarization (vs MDS)
+    SDS    Single Document Summarization (vs MDS)
 
-    TAG   Tree Adjoining Grammar
+    TAG    Tree Adjoining Grammar
 
 
 
