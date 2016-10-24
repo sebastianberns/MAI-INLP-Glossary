@@ -2,97 +2,95 @@
 
 Introduction to Natural Language Processing
 
-Master in Artificial Intelligence
-
-UPC, 2016/17
+Master in Artificial Intelligence, UPC 2016/17
 
 
 
 ## Acronyms
 
-ASR		Automatic Speech Recognition
+    ASR   Automatic Speech Recognition
 
-CFG		Context Free Grammar
+    CFG   Context Free Grammar
 
-CG		Constraint Grammar
+    CG    Constraint Grammar
 
-CNF		Chomsky Normal Form
+    CNF   Chomsky Normal Form
 
-FSA		Finite State Automaton
+    FSA   Finite State Automaton
 
-FSA		Finite State Transducer
+    FSA   Finite State Transducer
 
-GNF	Greibach Normal Form
+    GNF   Greibach Normal Form
 
-HMM	Hidden Markov Model
+    HMM   Hidden Markov Model
 
-IE		Information Extraction
+    IE    Information Extraction
 
-IR		Information Retrieval
+    IR    Information Retrieval
 
-LCFRS	Linear Context Free Rewriting System
+    LCFRS Linear Context Free Rewriting System
 
-MCFG	Multiple Context Free Grammars (see CFG)
+    MCFG  Multiple Context Free Grammars (see CFG)
 
-MDS	Multi Document Summarization (vs SDS)
+    MDS   Multi Document Summarization (vs SDS)
 
-ML		Machine Learning
+    ML    Machine Learning
 
-MM		Markov Model
+    MM    Markov Model
 
-MT		Machine Translation
+    MT    Machine Translation
 
-NE		Named Entity
+    NE    Named Entity
 
-NEC		Named Entity Classification
+    NEC   Named Entity Classification
 
-NER		Named Entity Recognition
+    NER   Named Entity Recognition
 
-NERC	NEC + NER
+    NERC  NEC + NER
 
-NLP		Natural Language Processing
+    NLP   Natural Language Processing
 
-NP		Nominal Phrase (CFG)
+    NP    Nominal Phrase (CFG)
 
-POS		Part of Speech
+    POS   Part of Speech
 
-PSG		Phrase Structure Grammar
+    PSG   Phrase Structure Grammar
 
-QA		Question Answering
+    QA    Question Answering
 
-RCG	Range Concatenation Grammar
+    RCG   Range Concatenation Grammar
 
-RG		Regular Grammar
+    RG    Regular Grammar
 
-RNP	Recursive Noun Phrase (CFG)
+    RNP   Recursive Noun Phrase (CFG)
 
-SDS		Single Document Summarization (vs MDS)
+    SDS   Single Document Summarization (vs MDS)
 
-TAG		Tree Adjoining Grammar
+    TAG   Tree Adjoining Grammar
 
 
 
 ## Linguistic terms
 
-polyseme			word or phrase with different, but related senses
+    polyseme     word or phrase with different, but related senses
 
-polysemy			capacity for a word to have multiple meanings
+    polysemy     capacity for a word to have multiple meanings
 
-stop words			words w/o meaning (articles, propositions, punctuation, …) [the, is, at, which, on, …]
+    stop words   words w/o meaning (articles, propositions, punctuation, …) [the, is, at, which, on, …]
 
-morphemes			subunits in morphology (e.g. un-believe-able-ly)
+    morphemes    subunits in morphology (e.g. un-believe-able-ly)
 
-stem				type of morpheme (main, meaning)
+    stem         type of morpheme (main, meaning)
 
-affix				type of morpheme (additional
+    affix        type of morpheme (additional
 
-prefix				morpheme preciding the stem (e.g. un-certain, un-chain)
+    prefix       morpheme preciding the stem (e.g. un-certain, un-chain)
 
-sufix				morpheme following the stem (e.g. eat-s)
+    sufix        morpheme following the stem (e.g. eat-s)
 
-circumfix			prefix and sufix (e.g. sagen: ge-sag-t)
+    circumfix    prefix and sufix (e.g. sagen: ge-sag-t)
 
-infix				affix inserted in the middle (e.g. abso-fucking-lutely)
+    infix        affix inserted in the middle (e.g. abso-fucking-lutely)
 
-compounding		combination of stems (e.g. doghouse)
+    compounding  combination of stems (e.g. doghouse)
 
