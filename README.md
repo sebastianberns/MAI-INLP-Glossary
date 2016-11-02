@@ -21,6 +21,8 @@ Master in Artificial Intelligence, UPC 2016/17
     FSA    Finite State Transducer
 
     GNF    Greibach Normal Form
+    
+    HLT    Human Language Technology
 
     HMM    Hidden Markov Model
 
@@ -29,6 +31,8 @@ Master in Artificial Intelligence, UPC 2016/17
     IR     Information Retrieval
 
     LCFRS  Linear Context Free Rewriting System
+    
+    LE     Linguistic Engineering
 
     MCFG   Multiple Context Free Grammars (see CFG)
 
