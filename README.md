@@ -8,13 +8,19 @@ Master in Artificial Intelligence, UPC 2016/17
 
 ## Acronyms
 
+    ATN    Augmented Transition Networks (TN)
+
     ASR    Automatic Speech Recognition
 
     CFG    Context Free Grammar
 
     CG     Constraint Grammar
+    
+    CKY    Cocke-Kasami-Younger (Dynamic Programming method for parsing)
 
     CNF    Chomsky Normal Form
+    
+    DCG    Definite Clause Grammars
 
     FSA    Finite State Automaton
 
@@ -22,9 +28,13 @@ Master in Artificial Intelligence, UPC 2016/17
 
     GNF    Greibach Normal Form
     
+    HG     Head Grammar
+    
     HLT    Human Language Technology
 
     HMM    Hidden Markov Model
+    
+    HPSG   Head-driven Phrase Structure Grammar
 
     IE     Information Extraction
 
@@ -33,6 +43,10 @@ Master in Artificial Intelligence, UPC 2016/17
     LCFRS  Linear Context Free Rewriting System
     
     LE     Linguistic Engineering
+    
+    LL     Left to right, Leftmost derivation (Top down parser)
+    
+    LR     Left to right, Rightmost derivation (Bottom up parser)
 
     MCFG   Multiple Context Free Grammars (see CFG)
 
@@ -50,7 +64,7 @@ Master in Artificial Intelligence, UPC 2016/17
 
     NER    Named Entity Recognition
 
-    NERC   NEC + NER
+    NERC   Named Entity Recognition and Classification (NEC + NER)
 
     NLP    Natural Language Processing
 
@@ -67,10 +81,18 @@ Master in Artificial Intelligence, UPC 2016/17
     RG     Regular Grammar
 
     RNP    Recursive Noun Phrase (CFG)
+    
+    RTN    Recursive Transition Networks (TN)
 
     SDS    Single Document Summarization (vs MDS)
 
     TAG    Tree Adjoining Grammar
+    
+    TN     Transition Networks
+    
+    VP     Verbal Phrase / Verb Phrase
+    
+    WFST   Weighted Finite State Transducer (FST)
 
 
 
