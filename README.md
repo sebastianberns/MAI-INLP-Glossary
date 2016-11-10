@@ -18,7 +18,7 @@ Master in Artificial Intelligence, UPC 2016/17
 
     FSA    Finite State Automaton
 
-    FSA    Finite State Transducer
+    FST    Finite State Transducer
 
     GNF    Greibach Normal Form
     
